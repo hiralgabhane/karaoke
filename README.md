@@ -1,4 +1,8 @@
 ## Prerequisites
-1. 2 Auxillary cable 
-2. Usb-Square cable
-3. Audacity Software
++ 2 Auxillary cable 
++ Usb-Square cable
++ Audacity Software
+
+## Setup
+1. Connect auxillary cable 
+2. hello
